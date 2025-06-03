@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/zhouxule/am-cf-tunnel/refs/heads/main/0603.csv
+https://raw.githubusercontent.com/zhouxule/am-cf-tunnel/refs/heads/main/ipv4.csv
